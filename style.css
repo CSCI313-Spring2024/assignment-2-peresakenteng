@@ -89,7 +89,14 @@ button a:hover{
 body{
     background-image: url('images/back.jpg');
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    
 }
 h1{
     color: rgb(197, 120, 120);
+}
+.table{
+ margin-right: auto;
+ margin-left: auto;
+    text-align: center;
 }
